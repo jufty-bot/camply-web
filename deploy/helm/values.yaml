@@ -6,7 +6,7 @@ fullnameOverride: ""
 image:
   repository: ghcr.io/juftin/camply-web
   # Empty uses Chart.appVersion; each published chart tag selects its matching image tag.
-  tag: ""
+  tag: "@sha256:13ed52a35495a44bd824948b50382ce12b00c02d4a9104bb05d4919522b29667"
   digest: ""
   pullPolicy: Always
 imagePullSecrets: []
